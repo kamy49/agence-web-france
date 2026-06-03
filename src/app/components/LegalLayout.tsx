@@ -2,7 +2,7 @@ import { ReactNode } from "react";
 
 interface LegalLayoutProps {
   title: string;
-  lastUpdated: string;
+  lastUpdated?: string;
   children: ReactNode;
 }
 
@@ -15,7 +15,9 @@ export default function LegalLayout({ title, lastUpdated, children }: LegalLayou
           <h1 className="font-display text-3xl sm:text-4xl font-bold text-[#0F172A] mt-4 mb-2">
             {title}
           </h1>
-          <p className="text-[#94A3B8] text-sm">Dernière mise à jour : {lastUpdated}</p>
+          {lastUpdated && (
+            <p className="text-[#94A3B8] text-sm">Dernière mise à jour : {lastUpdated}</p>
+          )}
         </div>
 
         <div className="prose prose-slate max-w-none

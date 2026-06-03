@@ -1,27 +1,6 @@
-import Navbar from "./components/Navbar";
-import Hero from "./components/home/Hero";
-import ServicesSection from "./components/home/ServicesSection";
-import Portfolio from "./components/home/Portfolio";
-import Process from "./components/home/Process";
-import Testimonials from "./components/home/Testimonials";
-import Pricing from "./components/home/Pricing";
-import CTASection from "./components/home/CTASection";
-import Footer from "./components/Footer";
+import { redirect } from "next/navigation";
 
-export default function Home() {
-  return (
-    <>
-      <Navbar />
-      <main>
-        <Hero />
-        <ServicesSection />
-        <Portfolio />
-        <Process />
-        <Testimonials />
-        <Pricing />
-        <CTASection />
-      </main>
-      <Footer />
-    </>
-  );
+// Redirect root to /en (middleware handles this, but this is a fallback)
+export default function RootPage() {
+  redirect("/en");
 }
