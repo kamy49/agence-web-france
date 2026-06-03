@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     "Découvrez nos réalisations web : sites vitrine, e-commerce et applications web pour PME et artisans en France. Plus de 150 projets livrés.",
   alternates: { canonical: "/portfolio" },
   openGraph: {
-    title: "Portfolio | PixelPro Agency",
+    title: "Portfolio | WebZynth",
     description: "Sites vitrine, e-commerce et SEO — nos réalisations pour PME françaises.",
     url: "/portfolio",
   },

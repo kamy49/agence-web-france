@@ -38,7 +38,7 @@ const team = [
     role: "Fondateur & Développeur Full-Stack",
     avatar: "KM",
     color: "#4F46E5",
-    bio: "8 ans d'expérience en développement web. Spécialiste Next.js et performance. A travaillé pour des startups et grands groupes avant de lancer PixelPro.",
+    bio: "8 ans d'expérience en développement web. Spécialiste Next.js et performance. A travaillé pour des startups et grands groupes avant de lancer WebZynth.",
   },
   {
     name: "Laura B.",
@@ -87,7 +87,7 @@ export default function AboutContent() {
               <span className="gradient-text">comprend les PME</span>
             </h1>
             <p className="text-[#64748B] text-lg sm:text-xl max-w-2xl mx-auto leading-relaxed">
-              PixelPro Agency est née d'un constat simple : les agences web traditionnelles
+              WebZynth est née d'un constat simple : les agences web traditionnelles
               sont trop chères, trop lentes et ne parlent pas le même langage que les artisans
               et commerçants français.
             </p>
@@ -106,7 +106,7 @@ export default function AboutContent() {
             >
               <h2 className="font-display text-3xl sm:text-4xl font-bold text-[#0F172A] mb-6">
                 Pourquoi nous avons créé{" "}
-                <span className="gradient-text">PixelPro Agency</span>
+                <span className="gradient-text">WebZynth</span>
               </h2>
               <div className="space-y-4 text-[#334155] text-base leading-relaxed">
                 <p>
@@ -116,7 +116,7 @@ export default function AboutContent() {
                 </p>
                 <p>
                   Le résultat était meilleur que ce que proposaient les agences, pour un dixième du prix.
-                  C'est là qu'est né PixelPro Agency : <strong>l'agence web qui traite les PME comme
+                  C'est là qu'est né WebZynth : <strong>l'agence web qui traite les PME comme
                   des clients VIP</strong>, pas comme une ligne dans un tableau Excel.
                 </p>
                 <p>
@@ -134,7 +134,7 @@ export default function AboutContent() {
               <div className="relative rounded-3xl overflow-hidden h-96">
                 <Image
                   src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80"
-                  alt="Équipe PixelPro Agency"
+                  alt="Équipe WebZynth"
                   fill
                   className="object-cover"
                   sizes="(max-width: 1024px) 100vw, 50vw"

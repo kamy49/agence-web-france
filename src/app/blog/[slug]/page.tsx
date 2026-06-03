@@ -38,13 +38,13 @@ const articleContent: Record<string, string[]> = {
     "Ce n'est pas une tendance — c'est la réalité du marché français en 2025.",
     "## Ce que vous perdez sans site web",
     "Sans site web, vous perdez des clients qui auraient pu vous trouver, des devis que vous n'avez jamais reçus, de la crédibilité face à vos concurrents, et des avis Google qui auraient construit votre réputation.",
-    "Un restaurateur de Lyon nous a confié avoir perdu 40% de ses nouvelles réservations après qu'un concurrent a ouvert à côté avec un site web professionnel. En 6 mois avec PixelPro, il a non seulement récupéré ses parts de marché mais les a doublées.",
+    "Un restaurateur de Lyon nous a confié avoir perdu 40% de ses nouvelles réservations après qu'un concurrent a ouvert à côté avec un site web professionnel. En 6 mois avec WebZynth, il a non seulement récupéré ses parts de marché mais les a doublées.",
     "## Votre site web : un investissement, pas une dépense",
     "Un site vitrine professionnel coûte entre 990€ et 2 000€. Si votre panier moyen est de 50€ et que le site vous apporte 3 clients supplémentaires par mois, il est rentabilisé en 7 mois.",
     "Pour un plombier avec un chantier moyen à 300€, c'est rentabilisé en 3 mois avec seulement un client par mois.",
     "## Comment agir maintenant",
     "1. Commencez par une présence simple mais professionnelle\n2. Assurez-vous d'être sur Google My Business\n3. Collectez des avis de vos clients actuels\n4. Créez du contenu qui répond aux questions de vos prospects",
-    "Chez PixelPro Agency, nous livrons un site web professionnel optimisé SEO en 7 jours à partir de 990€. Demandez votre maquette gratuite aujourd'hui.",
+    "Chez WebZynth, nous livrons un site web professionnel optimisé SEO en 7 jours à partir de 990€. Demandez votre maquette gratuite aujourd'hui.",
   ],
   "seo-local-artisans-comment-apparaitre-google": [
     "Le SEO local est l'art d'apparaître dans les résultats Google quand quelqu'un près de chez vous cherche votre type de service. Pour un plombier, c'est apparaître quand quelqu'un tape 'plombier Paris 15'. Pour un boulanger, c'est 'boulangerie Bordeaux centre'.",
@@ -67,7 +67,7 @@ const articleContent: Record<string, string[]> = {
     "## Les options du marché",
     "**Faire soi-même (0 à 200€/an)** : Wix, Squarespace ou WordPress.com. Simple, mais limité. Le résultat manque souvent de professionnalisme et les performances SEO sont médiocres.",
     "**Freelance débutant (500 à 1 500€)** : Prix attractif, mais risque sur la qualité, le délai et le suivi. Vérifiez toujours un portfolio.",
-    "**Agence web PME (990 à 3 000€)** : Le sweet spot pour une PME. Design professionnel, code optimisé, SEO intégré, support. C'est notre positionnement chez PixelPro Agency.",
+    "**Agence web PME (990 à 3 000€)** : Le sweet spot pour une PME. Design professionnel, code optimisé, SEO intégré, support. C'est notre positionnement chez WebZynth.",
     "**Grande agence (3 000 à 15 000€+)** : Processus long (3 à 6 mois), équipes importantes, tarifs élevés. Pertinent pour les projets complexes, surdimensionné pour une PME.",
     "## Ce qui justifie le prix",
     "La différence entre un site à 990€ et un site à 300€, c'est :\n- Le temps de développement (20h vs 2h)\n- La qualité du design et de l'UX\n- L'optimisation SEO technique\n- La performance (vitesse, Core Web Vitals)\n- Le support et la maintenance",
@@ -75,7 +75,7 @@ const articleContent: Record<string, string[]> = {
     "Design responsive mobile-first, score Google PageSpeed > 80, conformité RGPD, accès à votre hébergement et nom de domaine, et une formation pour gérer votre contenu.",
     "## Notre recommandation",
     "Pour une PME française en 2025, budgétez entre 990€ et 2 500€ pour un site vitrine professionnel, entre 1 990€ et 4 000€ pour un e-commerce, et entre 290 et 490€/mois pour un accompagnement SEO.",
-    "Chez PixelPro Agency, nos tarifs sont transparents : Starter à 990€, Business à 1 990€. Tout inclus, aucune surprise.",
+    "Chez WebZynth, nos tarifs sont transparents : Starter à 990€, Business à 1 990€. Tout inclus, aucune surprise.",
   ],
   "wordpress-vs-nextjs-quelle-technologie-choisir": [
     "WordPress ou Next.js ? C'est l'une des questions techniques les plus fréquentes de nos clients. Voici une comparaison honnête des deux solutions pour vous aider à choisir.",
@@ -89,7 +89,7 @@ const articleContent: Record<string, string[]> = {
     "**Inconvénients :**\n- Gestion de contenu moins intuitive (nécessite un CMS headless)\n- Développeurs plus rares et plus coûteux\n- Moins de plugins prêts à l'emploi",
     "## Notre recommandation selon le contexte",
     "Choisissez **WordPress** si vous avez besoin de publier beaucoup de contenu fréquemment et souhaitez gérer votre site en totale autonomie.\n\nChoisissez **Next.js** si vous voulez les meilleures performances, le meilleur SEO technique, et une sécurité maximale.",
-    "Chez PixelPro Agency, nous utilisons Next.js pour tous nos sites. La différence de performance est mesurable : +40% de vitesse en moyenne par rapport à WordPress.",
+    "Chez WebZynth, nous utilisons Next.js pour tous nos sites. La différence de performance est mesurable : +40% de vitesse en moyenne par rapport à WordPress.",
   ],
   "rgpd-guide-complet-site-web-pme": [
     "Depuis mai 2018, le RGPD (Règlement Général sur la Protection des Données) impose des obligations strictes à toutes les entreprises ayant des clients en Europe. Votre site web PME est directement concerné.",
@@ -105,7 +105,7 @@ const articleContent: Record<string, string[]> = {
     "Ne pas collecter plus de données que nécessaire, ne pas pré-cocher les cases de consentement, ne pas rendre le refus plus difficile que l'acceptation, et ne pas transférer des données hors UE sans mesures adéquates.",
     "## Les sanctions",
     "La CNIL peut infliger des amendes allant jusqu'à 4% du chiffre d'affaires mondial ou 20 millions d'euros. Les PME sont de plus en plus dans le viseur.",
-    "## Chez PixelPro Agency",
+    "## Chez WebZynth",
     "Tous nos sites sont livrés conformes RGPD : bandeau cookies, politique de confidentialité, mentions légales et CGV incluses. Nous gérons la conformité pour vous.",
   ],
   "augmenter-clients-grace-site-web-restaurant": [
@@ -145,11 +145,11 @@ export default async function BlogArticlePage(
     author: { "@type": "Person", name: article.author },
     publisher: {
       "@type": "Organization",
-      name: "PixelPro Agency",
-      url: "https://pixelpro-agency.fr",
+      name: "WebZynth",
+      url: "https://webzynth.fr",
     },
     datePublished: article.date,
-    mainEntityOfPage: `https://pixelpro-agency.fr/blog/${slug}`,
+    mainEntityOfPage: `https://webzynth.fr/blog/${slug}`,
   };
 
   return (

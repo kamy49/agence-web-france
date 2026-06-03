@@ -9,7 +9,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/mentions-legales", "/politique-confidentialite", "/cgv"],
       },
     ],
-    sitemap: "https://pixelpro-agency.fr/sitemap.xml",
-    host: "https://pixelpro-agency.fr",
+    sitemap: "https://webzynth.fr/sitemap.xml",
+    host: "https://webzynth.fr",
   };
 }

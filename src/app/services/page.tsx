@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     "Création de sites vitrine, e-commerce, refonte, SEO et campagnes Google Ads pour PME et artisans français. Devis gratuit sous 24h.",
   alternates: { canonical: "/services" },
   openGraph: {
-    title: "Nos Services | PixelPro Agency",
+    title: "Nos Services | WebZynth",
     description: "Sites vitrine, e-commerce, SEO, maintenance et Google Ads pour PME françaises.",
     url: "/services",
   },

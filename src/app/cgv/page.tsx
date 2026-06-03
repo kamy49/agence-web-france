@@ -5,7 +5,7 @@ import LegalLayout from "../components/LegalLayout";
 
 export const metadata: Metadata = {
   title: "Conditions Générales de Vente (CGV)",
-  description: "Conditions générales de vente de PixelPro Agency — prestation de création de sites web.",
+  description: "Conditions générales de vente de WebZynth — prestation de création de sites web.",
   robots: { index: false, follow: false },
   alternates: { canonical: "/cgv" },
 };
@@ -18,7 +18,7 @@ export default function CGVPage() {
         <LegalLayout title="Conditions Générales de Vente" lastUpdated="5 avril 2026">
           <p>
             Les présentes Conditions Générales de Vente (CGV) régissent les relations contractuelles
-            entre PixelPro Agency (ci-après « le Prestataire ») et tout client (ci-après « le Client »)
+            entre WebZynth (ci-après « le Prestataire ») et tout client (ci-après « le Client »)
             souhaitant bénéficier de ses services de création de sites web et de services digitaux associés.
           </p>
 
@@ -176,7 +176,7 @@ export default function CGVPage() {
           <h2>17. Contact</h2>
           <p>
             Pour toute question relative aux présentes CGV :<br />
-            Email : contact@pixelpro-agency.fr<br />
+            Email : contact@webzynth.fr<br />
             Téléphone : +33 6 XX XX XX XX
           </p>
         </LegalLayout>

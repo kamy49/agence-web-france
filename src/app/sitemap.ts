@@ -1,7 +1,7 @@
 import { MetadataRoute } from "next";
 import { articles } from "./data/articles";
 
-const BASE_URL = "https://pixelpro-agency.fr";
+const BASE_URL = "https://webzynth.fr";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticPages = [

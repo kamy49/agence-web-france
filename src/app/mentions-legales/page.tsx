@@ -5,7 +5,7 @@ import LegalLayout from "../components/LegalLayout";
 
 export const metadata: Metadata = {
   title: "Mentions Légales",
-  description: "Mentions légales de PixelPro Agency — éditeur du site web.",
+  description: "Mentions légales de WebZynth — éditeur du site web.",
   robots: { index: false, follow: false },
   alternates: { canonical: "/mentions-legales" },
 };
@@ -43,30 +43,30 @@ export default function MentionsLegalesPage() {
           <h2>4. Propriété intellectuelle</h2>
           <p>
             L'ensemble du contenu de ce site (textes, images, vidéos, logos, icônes, etc.) est
-            la propriété exclusive de PixelPro Agency ou de ses partenaires, et est protégé par
+            la propriété exclusive de WebZynth ou de ses partenaires, et est protégé par
             les lois françaises et internationales relatives à la propriété intellectuelle.
           </p>
           <p>
             Toute reproduction, représentation, modification, publication ou adaptation de tout ou
             partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite,
-            sauf autorisation écrite préalable de PixelPro Agency.
+            sauf autorisation écrite préalable de WebZynth.
           </p>
 
           <h2>5. Liens hypertextes</h2>
           <p>
-            PixelPro Agency ne peut être tenu responsable du contenu des sites externes vers lesquels
+            WebZynth ne peut être tenu responsable du contenu des sites externes vers lesquels
             des liens hypertextes sont proposés. La création de liens vers ce site est soumise à
             l'accord préalable de l'éditeur.
           </p>
 
           <h2>6. Limitation de responsabilité</h2>
           <p>
-            PixelPro Agency s'efforce d'assurer l'exactitude et la mise à jour des informations
+            WebZynth s'efforce d'assurer l'exactitude et la mise à jour des informations
             publiées sur ce site. Cependant, nous ne pouvons garantir l'exactitude, la précision
             ou l'exhaustivité des informations mises à disposition.
           </p>
           <p>
-            En conséquence, PixelPro Agency décline toute responsabilité pour toute imprécision,
+            En conséquence, WebZynth décline toute responsabilité pour toute imprécision,
             inexactitude ou omission portant sur des informations disponibles sur ce site.
           </p>
 

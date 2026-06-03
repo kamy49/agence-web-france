@@ -20,7 +20,7 @@ export default function BlogList() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
           >
-            <span className="section-badge mb-4">Le blog PixelPro</span>
+            <span className="section-badge mb-4">Le blog WebZynth</span>
             <h1 className="font-display text-4xl sm:text-5xl font-bold text-[#0F172A] mt-4 mb-4">
               Conseils & ressources pour{" "}
               <span className="gradient-text">votre PME</span>

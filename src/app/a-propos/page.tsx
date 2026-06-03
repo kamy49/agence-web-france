@@ -7,10 +7,10 @@ import CTASection from "../components/home/CTASection";
 export const metadata: Metadata = {
   title: "À Propos — Notre Équipe & Notre Mission",
   description:
-    "Découvrez l'équipe PixelPro Agency : des passionnés du web qui aident les PME et artisans français à se développer grâce à des sites web professionnels.",
+    "Découvrez l'équipe WebZynth : des passionnés du web qui aident les PME et artisans français à se développer grâce à des sites web professionnels.",
   alternates: { canonical: "/a-propos" },
   openGraph: {
-    title: "À Propos | PixelPro Agency",
+    title: "À Propos | WebZynth",
     description: "Notre mission : aider chaque PME française à réussir sur internet.",
     url: "/a-propos",
   },

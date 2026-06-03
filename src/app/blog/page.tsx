@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     "Conseils pratiques pour les PME et artisans français : créer un site web, améliorer son SEO local, attirer plus de clients en ligne.",
   alternates: { canonical: "/blog" },
   openGraph: {
-    title: "Blog | PixelPro Agency",
+    title: "Blog | WebZynth",
     description: "Guides, conseils SEO et astuces digitales pour les PME françaises.",
     url: "/blog",
   },

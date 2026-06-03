@@ -17,8 +17,8 @@ const inter = Inter({
   weight: ["300", "400", "500", "600", "700"],
 });
 
-const SITE_NAME = "PixelPro Agency";
-const SITE_URL = "https://pixelpro-agency.fr";
+const SITE_NAME = "WebZynth";
+const SITE_URL = "https://webzynth.fr";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -54,7 +54,7 @@ export const metadata: Metadata = {
         url: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80",
         width: 1200,
         height: 630,
-        alt: "PixelPro Agency — Création de sites web professionnels",
+        alt: "WebZynth — Création de sites web professionnels",
       },
     ],
   },
@@ -81,7 +81,7 @@ const jsonLd = {
   description: "Agence web spécialisée création de sites web pour PME et artisans en France.",
   url: SITE_URL,
   telephone: "+33 6 XX XX XX XX",
-  email: "contact@pixelpro-agency.fr",
+  email: "contact@webzynth.fr",
   priceRange: "€€",
   areaServed: "France",
   serviceType: "Création de sites web",
@@ -90,8 +90,8 @@ const jsonLd = {
     addressCountry: "FR",
   },
   sameAs: [
-    "https://www.linkedin.com/company/pixelpro-agency",
-    "https://www.instagram.com/pixelpro.agency",
+    "https://www.linkedin.com/company/webzynth",
+    "https://www.instagram.com/webzynth",
   ],
 };
 

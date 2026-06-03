@@ -53,7 +53,7 @@ export default function Footer() {
                 <Zap size={18} className="text-white" />
               </div>
               <span className="font-display font-bold text-white text-lg">
-                PixelPro<span className="text-[#6366F1]"> Agency</span>
+                WebZynth
               </span>
             </Link>
             <p className="text-sm leading-relaxed mb-6 max-w-xs">
@@ -64,8 +64,8 @@ export default function Footer() {
               <a href="tel:+33600000000" className="flex items-center gap-2.5 text-sm hover:text-white transition-colors">
                 <Phone size={15} className="text-[#4F46E5]" /> +33 6 XX XX XX XX
               </a>
-              <a href="mailto:contact@pixelpro-agency.fr" className="flex items-center gap-2.5 text-sm hover:text-white transition-colors">
-                <Mail size={15} className="text-[#4F46E5]" /> contact@pixelpro-agency.fr
+              <a href="mailto:contact@webzynth.fr" className="flex items-center gap-2.5 text-sm hover:text-white transition-colors">
+                <Mail size={15} className="text-[#4F46E5]" /> contact@webzynth.fr
               </a>
               <div className="flex items-center gap-2.5 text-sm">
                 <MapPin size={15} className="text-[#4F46E5]" /> France (télétravail)

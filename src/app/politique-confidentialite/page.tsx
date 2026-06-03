@@ -5,7 +5,7 @@ import LegalLayout from "../components/LegalLayout";
 
 export const metadata: Metadata = {
   title: "Politique de Confidentialité — RGPD",
-  description: "Politique de confidentialité et de traitement des données personnelles de PixelPro Agency, conformément au RGPD.",
+  description: "Politique de confidentialité et de traitement des données personnelles de WebZynth, conformément au RGPD.",
   robots: { index: false, follow: false },
   alternates: { canonical: "/politique-confidentialite" },
 };
@@ -17,7 +17,7 @@ export default function PolitiqueConfidentialitePage() {
       <main>
         <LegalLayout title="Politique de Confidentialité" lastUpdated="5 avril 2026">
           <p>
-            PixelPro Agency s'engage à protéger la vie privée des utilisateurs de son site web.
+            WebZynth s'engage à protéger la vie privée des utilisateurs de son site web.
             La présente politique de confidentialité décrit comment nous collectons, utilisons et
             protégeons vos données personnelles, conformément au Règlement Général sur la Protection
             des Données (RGPD — UE 2016/679) et à la loi Informatique et Libertés.
@@ -109,7 +109,7 @@ export default function PolitiqueConfidentialitePage() {
             <li><strong>Droit de retirer votre consentement</strong> à tout moment.</li>
           </ul>
           <p>
-            Pour exercer vos droits, contactez-nous à : contact@pixelpro-agency.fr. Nous répondrons
+            Pour exercer vos droits, contactez-nous à : contact@webzynth.fr. Nous répondrons
             dans un délai d'un mois. En cas de litige, vous pouvez saisir la CNIL (www.cnil.fr).
           </p>
 

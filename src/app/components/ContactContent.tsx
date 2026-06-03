@@ -5,7 +5,7 @@ import { Mail, Phone, MapPin, Clock, CheckCircle2 } from "lucide-react";
 import ContactForm from "./ContactForm";
 
 const infos = [
-  { icon: Mail, label: "Email", value: "contact@pixelpro-agency.fr" },
+  { icon: Mail, label: "Email", value: "contact@webzynth.fr" },
   { icon: Phone, label: "Téléphone", value: "+33 6 XX XX XX XX" },
   { icon: MapPin, label: "Zone d'intervention", value: "Toute la France (100% distanciel)" },
   { icon: Clock, label: "Disponibilité", value: "Lun–Ven, 9h–19h" },
