@@ -1,14 +1,48 @@
 <svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="192" height="192" rx="40" fill="#4F46E5"/>
-  <g clip-path="url(#clip0_1_2)">
-    <!-- W -->
-    <path d="M40 170L55 65L70 140L85 65L100 170" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-    <!-- Z -->
-    <path d="M110 70L150 70L115 135L155 135" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-  </g>
   <defs>
-    <clipPath id="clip0_1_2">
-      <rect width="192" height="192" fill="white"/>
-    </clipPath>
+    <linearGradient id="gradientBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4F46E5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gradientIcon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E0E7FF;stop-opacity:1" />
+    </linearGradient>
   </defs>
+  
+  <!-- Background rounded square -->
+  <rect width="192" height="192" rx="44" fill="url(#gradientBg)"/>
+  
+  <!-- Tech geometric design -->
+  <g transform="translate(96, 96)">
+    <!-- Outer circle accent -->
+    <circle cx="0" cy="0" r="58" fill="none" stroke="url(#gradientIcon)" stroke-width="1" opacity="0.3"/>
+    
+    <!-- Stylized W-Z fusion design -->
+    <!-- Left wing of W -->
+    <path d="M -35 -25 L -18 20 L -15 -25" stroke="url(#gradientIcon)" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Center peak -->
+    <path d="M -15 -28 L 0 15 L 15 -28" stroke="url(#gradientIcon)" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Right wing of W -->
+    <path d="M 15 -25 L 32 20 L 35 -25" stroke="url(#gradientIcon)" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Tech accent lines - diagonal Z elements -->
+    <line x1="-28" y1="-15" x2="28" y2="-15" stroke="url(#gradientIcon)" stroke-width="2" opacity="0.6"/>
+    <line x1="-20" y1="5" x2="20" y2="5" stroke="url(#gradientIcon)" stroke-width="2" opacity="0.6"/>
+    <line x1="-28" y1="25" x2="28" y2="25" stroke="url(#gradientIcon)" stroke-width="2" opacity="0.6"/>
+    
+    <!-- Corner tech accents -->
+    <circle cx="-32" cy="-32" r="2.5" fill="url(#gradientIcon)" opacity="0.8"/>
+    <circle cx="32" cy="-32" r="2.5" fill="url(#gradientIcon)" opacity="0.8"/>
+    <circle cx="-32" cy="32" r="2.5" fill="url(#gradientIcon)" opacity="0.8"/>
+    <circle cx="32" cy="32" r="2.5" fill="url(#gradientIcon)" opacity="0.8"/>
+    
+    <!-- Inner circuit-like elements -->
+    <path d="M 0 -40 L 0 -20" stroke="url(#gradientIcon)" stroke-width="1.5" opacity="0.5"/>
+    <path d="M -40 0 L -20 0" stroke="url(#gradientIcon)" stroke-width="1.5" opacity="0.5"/>
+    <path d="M 0 35 L 0 50" stroke="url(#gradientIcon)" stroke-width="1.5" opacity="0.5"/>
+    <path d="M 20 0 L 40 0" stroke="url(#gradientIcon)" stroke-width="1.5" opacity="0.5"/>
+  </g>
 </svg>
