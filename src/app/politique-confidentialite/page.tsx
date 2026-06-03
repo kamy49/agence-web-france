@@ -26,9 +26,7 @@ export default function PolitiqueConfidentialitePage() {
           <h2>1. Responsable du traitement</h2>
           <p>
             <strong>WebZynth</strong><br />
-            SIRET : [À compléter]<br />
-            Email : contact@webzynth.fr<br />
-            Téléphone : +33 6 XX XX XX XX
+            Email : contact@webzynth.fr
           </p>
 
           <h2>2. Données collectées</h2>

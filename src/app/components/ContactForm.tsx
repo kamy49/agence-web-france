@@ -116,7 +116,7 @@ export default function ContactForm() {
             <input
               {...register("phone")}
               type="tel"
-              placeholder="+33 6 XX XX XX XX"
+              placeholder="Votre téléphone (optionnel)"
               className={inputClass(false)}
             />
           </div>

@@ -176,8 +176,7 @@ export default function CGVPage() {
           <h2>17. Contact</h2>
           <p>
             Pour toute question relative aux présentes CGV :<br />
-            Email : contact@webzynth.fr<br />
-            Téléphone : +33 6 XX XX XX XX
+            Email : contact@webzynth.fr
           </p>
         </LegalLayout>
       </main>

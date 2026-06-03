@@ -89,7 +89,7 @@ export default function AboutContent() {
             <p className="text-[#64748B] text-lg sm:text-xl max-w-2xl mx-auto leading-relaxed">
               WebZynth est née d'un constat simple : les agences web traditionnelles
               sont trop chères, trop lentes et ne parlent pas le même langage que les artisans
-              et commerçants français.
+              et commerçants des pays francophones.
             </p>
           </motion.div>
         </div>
@@ -110,7 +110,7 @@ export default function AboutContent() {
               </h2>
               <div className="space-y-4 text-[#334155] text-base leading-relaxed">
                 <p>
-                  En 2022, Karim aidait son père à trouver une agence web pour son restaurant.
+                  En 2022, Karim aidait son père à trouver une agence web pour son restaurant en Belgique.
                   Après des mois de démarches, des devis à 8 000€ et des délais de 3 mois, il a
                   décidé de créer lui-même le site en 5 jours avec les meilleures technologies disponibles.
                 </p>
@@ -121,7 +121,7 @@ export default function AboutContent() {
                 </p>
                 <p>
                   Aujourd'hui, notre équipe de 4 passionnés a livré plus de 150 sites pour des
-                  restaurants, plombiers, médecins, créatrices de bijoux, auto-écoles... Partout en France.
+                  restaurants, plombiers, médecins, créatrices de bijoux, auto-écoles... En Suisse, Belgique, Canada, France et Luxembourg.
                 </p>
               </div>
             </motion.div>

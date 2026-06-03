@@ -1,13 +1,12 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Mail, Phone, MapPin, Clock, CheckCircle2 } from "lucide-react";
+import { Mail, MapPin, Clock, CheckCircle2 } from "lucide-react";
 import ContactForm from "./ContactForm";
 
 const infos = [
   { icon: Mail, label: "Email", value: "contact@webzynth.fr" },
-  { icon: Phone, label: "Téléphone", value: "+33 6 XX XX XX XX" },
-  { icon: MapPin, label: "Zone d'intervention", value: "Toute la France (100% distanciel)" },
+  { icon: MapPin, label: "Zone d'intervention", value: "Belgique, Canada, France, Luxembourg, Suisse (100% distanciel)" },
   { icon: Clock, label: "Disponibilité", value: "Lun–Ven, 9h–19h" },
 ];
 

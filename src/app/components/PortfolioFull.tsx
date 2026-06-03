@@ -115,7 +115,7 @@ export default function PortfolioFull() {
               <span className="gradient-text">parlent d'eux-mêmes</span>
             </h1>
             <p className="text-[#64748B] text-lg sm:text-xl max-w-2xl mx-auto leading-relaxed">
-              150+ projets livrés pour des PME et artisans partout en France.
+              150+ projets livrés pour des PME et artisans dans toute la francophonie (Suisse 🇨🇭, Belgique 🇧🇪, Canada 🇨🇦, Luxembourg 🇱🇺, France 🇫🇷).
               Chaque site raconte une histoire de croissance.
             </p>
           </motion.div>

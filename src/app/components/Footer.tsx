@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Mail, Phone, MapPin, Zap } from "lucide-react";
+import { Mail, MapPin, Zap } from "lucide-react";
 
 function IconLinkedIn() {
   return (
@@ -61,14 +61,11 @@ export default function Footer() {
               pour PME et artisans en France. Des sites qui convertissent.
             </p>
             <div className="space-y-2.5 mb-6">
-              <a href="tel:+33600000000" className="flex items-center gap-2.5 text-sm hover:text-white transition-colors">
-                <Phone size={15} className="text-[#4F46E5]" /> +33 6 XX XX XX XX
-              </a>
               <a href="mailto:contact@webzynth.fr" className="flex items-center gap-2.5 text-sm hover:text-white transition-colors">
                 <Mail size={15} className="text-[#4F46E5]" /> contact@webzynth.fr
               </a>
               <div className="flex items-center gap-2.5 text-sm">
-                <MapPin size={15} className="text-[#4F46E5]" /> France (télétravail)
+                <MapPin size={15} className="text-[#4F46E5]" /> Belgique, Canada, France, Luxembourg, Suisse (télétravail)
               </div>
             </div>
             <div className="flex gap-3">

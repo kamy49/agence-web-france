@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { ArrowRight, Phone } from "lucide-react";
+import { ArrowRight, Mail } from "lucide-react";
 
 export default function CTASection() {
   return (
@@ -46,13 +46,13 @@ export default function CTASection() {
               <ArrowRight size={18} />
             </Link>
             <a
-              href="tel:+33600000000"
+              href="mailto:contact@webzynth.fr"
               className="flex items-center gap-3 text-white/80 hover:text-white font-medium transition-colors"
             >
               <div className="w-10 h-10 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center transition-colors">
-                <Phone size={16} />
+                <Mail size={16} />
               </div>
-              +33 6 XX XX XX XX
+              Nous contacter
             </a>
           </div>
 

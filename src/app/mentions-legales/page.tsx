@@ -21,10 +21,8 @@ export default function MentionsLegalesPage() {
             Le présent site web est édité par :<br />
             <strong>WebZynth</strong><br />
             Forme juridique : [À compléter — SARL / SAS / Auto-entrepreneur]<br />
-            SIRET : [À compléter]<br />
-            Siège social : [Adresse complète], France<br />
-            Email : contact@webzynth.fr<br />
-            Téléphone : +33 6 XX XX XX XX
+            Siège social : [Adresse complète], Pays [À compléter]<br />
+            Email : contact@webzynth.fr
           </p>
 
           <h2>2. Directeur de la publication</h2>
@@ -79,8 +77,7 @@ export default function MentionsLegalesPage() {
           <h2>8. Contact</h2>
           <p>
             Pour toute question concernant ces mentions légales, vous pouvez nous contacter à :<br />
-            Email : contact@webzynth.fr<br />
-            Téléphone : +33 6 XX XX XX XX
+            Email : contact@webzynth.fr
           </p>
         </LegalLayout>
       </main>
