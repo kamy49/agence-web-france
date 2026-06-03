@@ -19,11 +19,11 @@ export default function MentionsLegalesPage() {
           <h2>1. Éditeur du site</h2>
           <p>
             Le présent site web est édité par :<br />
-            <strong>PixelPro Agency</strong><br />
+            <strong>WebZynth</strong><br />
             Forme juridique : [À compléter — SARL / SAS / Auto-entrepreneur]<br />
             SIRET : [À compléter]<br />
             Siège social : [Adresse complète], France<br />
-            Email : contact@pixelpro-agency.fr<br />
+            Email : contact@webzynth.fr<br />
             Téléphone : +33 6 XX XX XX XX
           </p>
 
@@ -79,7 +79,7 @@ export default function MentionsLegalesPage() {
           <h2>8. Contact</h2>
           <p>
             Pour toute question concernant ces mentions légales, vous pouvez nous contacter à :<br />
-            Email : contact@pixelpro-agency.fr<br />
+            Email : contact@webzynth.fr<br />
             Téléphone : +33 6 XX XX XX XX
           </p>
         </LegalLayout>

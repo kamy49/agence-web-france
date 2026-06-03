@@ -139,7 +139,7 @@ export default function Footer() {
 
         {/* Bas */}
         <div className="border-t border-white/8 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-[#475569]">
-          <p>© {new Date().getFullYear()} PixelPro Agency — Tous droits réservés</p>
+          <p>© {new Date().getFullYear()} WebZynth — Tous droits réservés</p>
           <div className="flex gap-5">
             <Link href="/mentions-legales" className="hover:text-[#6366F1] transition-colors">Mentions légales</Link>
             <Link href="/politique-confidentialite" className="hover:text-[#6366F1] transition-colors">Confidentialité</Link>

@@ -41,9 +41,8 @@ export default function Navbar() {
             </div>
             <div>
               <span className={`font-display font-bold text-lg leading-none ${isHome && !scrolled ? "text-white" : "text-[#0F172A]"}`}>
-                PixelPro
+                WebZynth
               </span>
-              <span className="text-[#4F46E5] font-bold text-lg leading-none"> Agency</span>
             </div>
           </Link>
 

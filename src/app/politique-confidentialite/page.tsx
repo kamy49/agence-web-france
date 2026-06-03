@@ -25,9 +25,9 @@ export default function PolitiqueConfidentialitePage() {
 
           <h2>1. Responsable du traitement</h2>
           <p>
-            <strong>PixelPro Agency</strong><br />
+            <strong>WebZynth</strong><br />
             SIRET : [À compléter]<br />
-            Email : contact@pixelpro-agency.fr<br />
+            Email : contact@webzynth.fr<br />
             Téléphone : +33 6 XX XX XX XX
           </p>
 
